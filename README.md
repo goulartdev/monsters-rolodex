@@ -4,5 +4,5 @@ App from [Complete React Developer in 2021](https://www.udemy.com/course/complet
 
 ## How to run
 
-Clone the repo and execute `yarn start`.
+Clone the repo and execute `yarn install` and `yarn start`.
 
